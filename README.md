@@ -15,7 +15,7 @@ These instructions will guide you on how to set up and run the simulation on you
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/NNOneHiddenLayer.git
+   git clone https://github.com/patelnilay251/NNOneHiddenLayer.git
 
 2. Navigate to the project directory:
 
